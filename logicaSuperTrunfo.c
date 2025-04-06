@@ -91,7 +91,7 @@ int main() {
     printf("PIB per Capita: %.2f\n", pibPerCapita2);
     printf("Super Poder: %.2f\n", superPoder2);
 
-    // Menu para o usuário escolher qual atributo deseja comparar
+    // Menu para o usuário escolher qual atributo deseja comparar.
     int opcao;
     printf("\n--- MENU DE COMPARAÇÃO ---\n");
     printf("Escolha um atributo para comparar:\n");
